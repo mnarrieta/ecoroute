@@ -1,5 +1,5 @@
 # Python para administración de sistemas
-## Práctica de desarrollo SPEC
+## Práctica de Desarrollo: Sistema de Gestión "EcoRoute" con Metodología SPEC
 
 ### 1. Contexto del Proyecto
 La empresa de logística EcoRoute necesita una herramienta interna para gestionar su nueva flota de furgonetas eléctricas. A diferencia de un desarrollo tradicional, utilizaremos SPEC-Driven Development (SDD).
