@@ -50,8 +50,11 @@ Deberéis crear una carpeta en tu espacio github llamada `/ecoroute` con los sig
 | **agents.md** | Los Roles de la IA | Cómo debe "pensar" la IA. Instrucciones para Senior Developer, QA Tester y Documentador. |
 | **decisions.md** | Histórico de Decisiones | Justificación técnica. Python 3.10+, librerías específicas y manejo de errores. |
 | **constitution.md** | Las Reglas de Oro | Restricciones éticas y de formato. Idioma (Código: Inglés / Comentarios: Español). Nomenclatura: snake_case, PascalCase y SCREAMING_SNAKE_CASE. |
-| **proyecto_ecoroute.zip** | Con la estructura de la carpeta /ecoroute con todos los ficheros comprimidos en sus respectivas carpetas generados por la IA. |
-| **readme.md** | Con la descripción del proyecto |
+| **proyecto_ecoroute.zip** | Con la estructura de la carpeta /ecoroute con todos los ficheros comprimidos en sus respectivas carpetas generados por la IA. | |
+| **readme.md** | Con la descripción del proyecto | |
+
+* Compartir el proyecto (en privado) con el usuario mnarrieta (mnarrieta@iesfuengirola1.es)
+* Todos los ficheros .md deben tener control de versiones, tablas y un correcto formato cumpliendo los estándares Markdown.
 
 #### Librerías necesarias:
 * **Validación de Datos**: Pydantic.
